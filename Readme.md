@@ -22,7 +22,7 @@
         * SD card should be formatted in FAT32 (quickformat on windows in fat will do.)
 
  ###### Why sdFat & SSD1306Ascii libraries?
-    * The Pro Micro was tad bit overloaded in SRAM.
+    * The Pro Micro was tad bit overloaded in SRAM with SD.H and adafruit_SSD1306.
     * They're both lightweight in comparrison.
 
 > Sketch uses 26090 bytes (90%) of program storage space. Maximum is 28672 bytes.
