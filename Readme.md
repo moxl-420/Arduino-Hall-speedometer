@@ -16,8 +16,8 @@
     * The Pro Micro was tad bit overloaded in SRAM.
     * They're both lightweight in comparrison.
 
--------------------------------------------------------------------------
- --  Pins for arduino pro micro
+
+ ###  Pins for arduino pro micro
  * SDA   -> 2   - SSD1306 Screen
  * SCL   -> 3   - SSD1306 Screen
  * Hall  -> 7   - Hall sensor
@@ -25,4 +25,4 @@
  * MoSi  -> 16  - SD card reader
  * SCK   -> 15  - SD card reader
  * CS    -> 4   - SD card reader
--------------------------------------------------------------------------
+
