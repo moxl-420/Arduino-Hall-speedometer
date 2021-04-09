@@ -16,6 +16,10 @@
     * The Pro Micro was tad bit overloaded in SRAM.
     * They're both lightweight in comparrison.
 
+> Sketch uses 26090 bytes (90%) of program storage space. Maximum is 28672 bytes.
+> Global variables use 2016 bytes (78%) of dynamic memory, leaving 544 bytes for local variables. Maximum is 2560 bytes.
+> Low memory available, stability problems may occur.
+
 
  ###  Pins for arduino pro micro
  * SDA   -> 2   - SSD1306 Screen
@@ -25,4 +29,5 @@
  * MoSi  -> 16  - SD card reader
  * SCK   -> 15  - SD card reader
  * CS    -> 4   - SD card reader
+
 
