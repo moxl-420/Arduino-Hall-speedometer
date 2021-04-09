@@ -40,6 +40,10 @@
  * CS    -> 4   - SD card reader
 
 
+## This is what a clean boot should look like.
+* The SD card should populate itself with folders and files. 
+
+
 ```Clean Boot
 
 -------------------------------------------
