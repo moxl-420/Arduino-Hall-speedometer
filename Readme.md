@@ -40,3 +40,41 @@
  * CS    -> 4   - SD card reader
 
 
+```Clean Boot
+
+-------------------------------------------
+| Moxl_ Speedometer for Arduino Pro Micro  |
+| You're free to do whatever with it.      |
+-------------------------------------------
+System Starting
+-------------------------------------------
+>>> Starting
+> Setting up Display
+-- SSD1306 allocation ok
+
+> Logo to screen
+> Initialize the SD card.
+-- SD card ok
+-- SD card size: 15590Mb.
+
+> Checking File system
+> Folders
+-- Folder system exists
+> Files
+-- File system/odometer ok
+
+-- File system/topspeed ok
+
+> Fetching odometer
+-- Data from SD:	397.94
+-- Converted data:	397.94
+> Fetching topspeed
+-- Data from SD:	85
+-- Converted data:	85
+
+> attaching interrupts
+-------------------------------------------
+>>> System Started
+-------------------------------------------
+
+```
