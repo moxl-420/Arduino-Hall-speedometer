@@ -1,7 +1,16 @@
 
-######          Moxl_ Speedometer for Arduino Pro Micro  
-######          You're free to do whatever with it.      
+#          Moxl_ Speedometer for Arduino Pro Micro  
+##          You're free to do whatever with it, most ain't mine anyway. 
 
+##### What does it do and why ?
+    * It has no buttons, so when you power it on the 'trip' starts.
+    * When reaching a new top speed, it's set on your display as new historical record.
+    * It will count the triplength and if no wheelspin is detected anymore it will update the odometer.
+    * It will keep the total odometer and topspeed stored in SDcard (in .txt files in plain text).
+    * Data manipulation is easy as you don't need flasher or anything.
+    * The SD card can be taken to a different setup and maintain topspeed and odometer
+    * User can each have different sd card
+   
  ###### Why Pro Micro ? 
     * It's what I had, and it's compact.
 
